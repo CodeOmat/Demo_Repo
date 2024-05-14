@@ -1,3 +1,3 @@
 # Demo 
 
-Training Git
+Training Git is very Important
